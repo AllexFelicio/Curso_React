@@ -13,7 +13,8 @@ function App() {
     
       <SayMyName nome="Alex" />
       <SayMyName nome="Felicio" />
-      <Pessoa nome="Alex" idade="22" profissao="engenheiro" foto="https://via.placeholder.com/150" />
+      
+      <Pessoa nome="Felicio" idade="22" profissao="engenheiro" foto="https://via.placeholder.com/150" />
     </div>
 
   );
